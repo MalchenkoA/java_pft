@@ -11,11 +11,17 @@
     <projectState path="$PROJECT_DIR$/sendbox">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/../java_task1/sendbox">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
         <task path="$PROJECT_DIR$/sendbox">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../java_task1/sendbox">
           <activation />
         </task>
         <projects_view>
@@ -70,18 +76,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sendbox/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_task1/sendbox/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HomeTask1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeTask1" />
+      <module name="java_task1.sendbox.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
@@ -124,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeTask1" />
         <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
@@ -139,7 +154,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584199757321</updated>
       <workItem from="1584199769530" duration="280000" />
-      <workItem from="1584203154229" duration="3904000" />
+      <workItem from="1584203154229" duration="5478000" />
+      <workItem from="1584211038006" duration="91000" />
     </task>
     <servers />
   </component>
@@ -151,34 +167,34 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="232" y="152" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1584200007420" />
-    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1584203393201">
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1584210514345">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584203393201" />
-    <state width="1236" height="298" key="GridCell.Tab.0.bottom" timestamp="1584208789316">
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584210514345" />
+    <state width="1236" height="298" key="GridCell.Tab.0.bottom" timestamp="1584210862338">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584208789316" />
-    <state width="1236" height="298" key="GridCell.Tab.0.center" timestamp="1584208789316">
+    <state width="1236" height="298" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584210862338" />
+    <state width="1236" height="298" key="GridCell.Tab.0.center" timestamp="1584210862337">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584208789316" />
-    <state width="1236" height="298" key="GridCell.Tab.0.left" timestamp="1584208789316">
+    <state width="1236" height="298" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584210862337" />
+    <state width="1236" height="298" key="GridCell.Tab.0.left" timestamp="1584210862337">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584208789316" />
-    <state width="1236" height="298" key="GridCell.Tab.0.right" timestamp="1584208789316">
+    <state width="1236" height="298" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584210862337" />
+    <state width="1236" height="298" key="GridCell.Tab.0.right" timestamp="1584210862338">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584208789316" />
-    <state x="160" y="81" key="SettingsEditor" timestamp="1584208776952">
+    <state width="1236" height="298" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584210862338" />
+    <state x="160" y="81" key="SettingsEditor" timestamp="1584211155824">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="160" y="81" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584208776952" />
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584203210990">
+    <state x="160" y="81" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584211155824" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584211045160">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584203210990" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584211045160" />
     <state x="45" y="130" key="new project wizard" timestamp="1584203384854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
