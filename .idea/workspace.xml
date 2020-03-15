@@ -48,6 +48,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -187,7 +194,7 @@
       <workItem from="1584203154229" duration="5478000" />
       <workItem from="1584211038006" duration="521000" />
       <workItem from="1584263562344" duration="133000" />
-      <workItem from="1584265438247" duration="7041000" />
+      <workItem from="1584265438247" duration="8355000" />
     </task>
     <servers />
   </component>
@@ -215,22 +222,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584268483452" />
-    <state width="1200" height="176" key="GridCell.Tab.0.bottom" timestamp="1584274549694">
+    <state width="1200" height="312" key="GridCell.Tab.0.bottom" timestamp="1584275525971">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="176" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584274549694" />
-    <state width="1200" height="176" key="GridCell.Tab.0.center" timestamp="1584274549693">
+    <state width="1200" height="312" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584275525971" />
+    <state width="1200" height="312" key="GridCell.Tab.0.center" timestamp="1584275525971">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="176" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584274549693" />
-    <state width="1200" height="176" key="GridCell.Tab.0.left" timestamp="1584274549693">
+    <state width="1200" height="312" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584275525971" />
+    <state width="1200" height="312" key="GridCell.Tab.0.left" timestamp="1584275525971">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="176" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584274549693" />
-    <state width="1200" height="176" key="GridCell.Tab.0.right" timestamp="1584274549694">
+    <state width="1200" height="312" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584275525971" />
+    <state width="1200" height="312" key="GridCell.Tab.0.right" timestamp="1584275525971">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="176" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584274549694" />
+    <state width="1200" height="312" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584275525971" />
     <state width="1200" height="185" key="GridCell.Tab.1.bottom" timestamp="1584273374250">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
