@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="java_pft.sandbox.main" target="11" />
+      <module name="java_pft.sandbox.test" target="11" />
+      <module name="java_pft.sendbox.main" target="11" />
+      <module name="java_pft.sendbox.test" target="11" />
+      <module name="java_task1.sendbox.main" target="11" />
+      <module name="java_task1.sendbox.test" target="11" />
+      <module name="sendbox.main" target="11" />
+      <module name="sendbox.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

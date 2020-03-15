@@ -8,7 +8,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/sandbox">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/sendbox">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../java_task1/sandbox">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/../java_task1/sendbox">
@@ -29,30 +35,11 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sendbox" type="f1a62948:ProjectNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sendbox" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sendbox" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sendbox" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sendbox" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -77,12 +64,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sendbox/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_task1/sendbox/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_task1/sandbox/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HomeTask1">
+  <component name="RunManager" selected="Application.MyFirstProgram (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -90,18 +77,42 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeTask1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeTask1" />
-      <module name="java_task1.sendbox.main" />
+      <module name="java_task1.sandbox.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HomeTask1" />
+      <module name="java_task1.sandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sendbox.MyFirstProgram" />
-      <module name="sendbox.main" />
+      <module name="sandbox.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sendbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sendbox.MyFirstProgram" />
+      <module name="sandbox" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,8 +150,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFirstProgram (1)" />
+        <item itemvalue="Application.HomeTask1 (1)" />
+        <item itemvalue="Application.MyFirstProgram" />
         <item itemvalue="Application.HomeTask1" />
-        <item itemvalue="Application.MyFirstProgram1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +171,7 @@
       <workItem from="1584203154229" duration="5478000" />
       <workItem from="1584211038006" duration="521000" />
       <workItem from="1584263562344" duration="133000" />
+      <workItem from="1584265438247" duration="1924000" />
     </task>
     <servers />
   </component>
@@ -165,6 +179,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="366" y="159" key="#HomeTask1" timestamp="1584268529997">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="366" y="159" key="#HomeTask1/0.0.1280.984@0.0.1280.984" timestamp="1584268529997" />
+    <state x="366" y="159" key="#MyFirstProgram" timestamp="1584268550455">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="366" y="159" key="#MyFirstProgram/0.0.1280.984@0.0.1280.984" timestamp="1584268550455" />
     <state x="232" y="152" key="#Project_Structure" timestamp="1584200007420">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -173,38 +195,38 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="390" y="360" width="499" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984@0.0.1280.984" timestamp="1584263706604" />
-    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1584210514345">
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1584268483452">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584210514345" />
-    <state width="1236" height="298" key="GridCell.Tab.0.bottom" timestamp="1584210862338">
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584268483452" />
+    <state width="1236" height="298" key="GridCell.Tab.0.bottom" timestamp="1584268566935">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584210862338" />
-    <state width="1236" height="298" key="GridCell.Tab.0.center" timestamp="1584210862337">
+    <state width="1236" height="298" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584268566935" />
+    <state width="1236" height="298" key="GridCell.Tab.0.center" timestamp="1584268566935">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584210862337" />
-    <state width="1236" height="298" key="GridCell.Tab.0.left" timestamp="1584210862337">
+    <state width="1236" height="298" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584268566935" />
+    <state width="1236" height="298" key="GridCell.Tab.0.left" timestamp="1584268566935">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584210862337" />
-    <state width="1236" height="298" key="GridCell.Tab.0.right" timestamp="1584210862338">
+    <state width="1236" height="298" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584268566935" />
+    <state width="1236" height="298" key="GridCell.Tab.0.right" timestamp="1584268566935">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="298" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584210862338" />
-    <state x="160" y="81" key="SettingsEditor" timestamp="1584211155824">
+    <state width="1236" height="298" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584268566935" />
+    <state x="160" y="81" key="SettingsEditor" timestamp="1584268486173">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="160" y="81" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584211155824" />
+    <state x="160" y="81" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584268486173" />
     <state x="455" y="275" key="chooseDestDirectoryDialog" timestamp="1584263705111">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="455" y="275" key="chooseDestDirectoryDialog/0.0.1280.984@0.0.1280.984" timestamp="1584263705111" />
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584263561056">
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584265500443">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584263561056" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584265500443" />
     <state x="45" y="130" key="new project wizard" timestamp="1584203384854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
