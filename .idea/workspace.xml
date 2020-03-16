@@ -90,7 +90,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
-  <component name="RunManager" selected="Gradle.SquareTests">
+  <component name="RunManager" selected="Gradle.PointTests">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -134,20 +134,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sendbox.MyFirstProgram" />
-      <module name="sandbox" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="PointTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../java_task1/sandbox" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.PointTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="SquareTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -196,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PointTests" />
         <item itemvalue="Gradle.SquareTests" />
         <item itemvalue="Application.MyFirstProgram (2)" />
         <item itemvalue="Application.MyFirstProgram (1)" />
         <item itemvalue="Application.HomeTask1 (1)" />
-        <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -246,22 +257,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584268483452" />
-    <state width="1236" height="430" key="GridCell.Tab.0.bottom" timestamp="1584386370778">
+    <state width="1236" height="430" key="GridCell.Tab.0.bottom" timestamp="1584388477536">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584386370778" />
-    <state width="1236" height="430" key="GridCell.Tab.0.center" timestamp="1584386370777">
+    <state width="1236" height="430" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
+    <state width="1236" height="430" key="GridCell.Tab.0.center" timestamp="1584388477536">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584386370777" />
-    <state width="1236" height="430" key="GridCell.Tab.0.left" timestamp="1584386370777">
+    <state width="1236" height="430" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
+    <state width="1236" height="430" key="GridCell.Tab.0.left" timestamp="1584388477536">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584386370777" />
-    <state width="1236" height="430" key="GridCell.Tab.0.right" timestamp="1584386370778">
+    <state width="1236" height="430" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
+    <state width="1236" height="430" key="GridCell.Tab.0.right" timestamp="1584388477536">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584386370778" />
+    <state width="1236" height="430" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
     <state width="1200" height="185" key="GridCell.Tab.1.bottom" timestamp="1584273374250">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
