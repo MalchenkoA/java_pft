@@ -98,8 +98,8 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HomeTask1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeTask1" />
+    <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.HomeTask1" />
       <module name="java_task1.sandbox.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -230,6 +230,9 @@
       <workItem from="1584211038006" duration="521000" />
       <workItem from="1584263562344" duration="133000" />
       <workItem from="1584265438247" duration="8355000" />
+      <workItem from="1584466548350" duration="3709000" />
+      <workItem from="1584477706674" duration="710000" />
+      <workItem from="1584639267755" duration="1645000" />
     </task>
     <servers />
   </component>
@@ -257,22 +260,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584268483452" />
-    <state width="1236" height="430" key="GridCell.Tab.0.bottom" timestamp="1584388477536">
+    <state width="1236" height="430" key="GridCell.Tab.0.bottom" timestamp="1584642422906">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
-    <state width="1236" height="430" key="GridCell.Tab.0.center" timestamp="1584388477536">
+    <state width="1236" height="430" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584642422906" />
+    <state width="1236" height="430" key="GridCell.Tab.0.center" timestamp="1584642422905">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
-    <state width="1236" height="430" key="GridCell.Tab.0.left" timestamp="1584388477536">
+    <state width="1236" height="430" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584642422905" />
+    <state width="1236" height="430" key="GridCell.Tab.0.left" timestamp="1584642422905">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
-    <state width="1236" height="430" key="GridCell.Tab.0.right" timestamp="1584388477536">
+    <state width="1236" height="430" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584642422905" />
+    <state width="1236" height="430" key="GridCell.Tab.0.right" timestamp="1584642422906">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584388477536" />
+    <state width="1236" height="430" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584642422906" />
     <state width="1200" height="185" key="GridCell.Tab.1.bottom" timestamp="1584273374250">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -297,10 +300,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="455" y="275" key="chooseDestDirectoryDialog/0.0.1280.984@0.0.1280.984" timestamp="1584263705111" />
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584265500443">
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584640442680">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584265500443" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584640442680" />
     <state x="45" y="130" key="new project wizard" timestamp="1584203384854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
