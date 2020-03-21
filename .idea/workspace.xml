@@ -101,6 +101,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sendbox/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/addressbook-web-tests/build.gradle" />
@@ -341,6 +342,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1200" height="185" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1584273374250" />
+    <state x="495" y="816" key="ReplaceDuplicatesPrompt" timestamp="1584805588771">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="495" y="816" key="ReplaceDuplicatesPrompt/0.0.1280.984@0.0.1280.984" timestamp="1584805588771" />
     <state x="160" y="103" width="1081" height="738" key="SettingsEditor" timestamp="1584799745985">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -353,6 +358,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584784044018" />
+    <state x="0" y="498" width="540" height="486" key="extract.method.dialog" timestamp="1584805772111">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="0" y="498" width="540" height="486" key="extract.method.dialog/0.0.1280.984@0.0.1280.984" timestamp="1584805772111" />
     <state x="45" y="130" key="new project wizard" timestamp="1584203384854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
