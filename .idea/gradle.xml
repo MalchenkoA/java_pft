@@ -28,6 +28,16 @@
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../java_task1/addressbook-web-tests" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../java_task1/addressbook-web-tests" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
