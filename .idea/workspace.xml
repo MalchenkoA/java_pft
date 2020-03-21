@@ -22,6 +22,9 @@
     <select />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/addressbook-web-tests">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/sandbox">
       <ProjectState />
     </projectState>
@@ -47,9 +50,16 @@
         <task path="$PROJECT_DIR$/sandbox">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/addressbook-web-tests">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="addressbook-web-tests" type="f1a62948:ProjectNode" />
+              </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="sandbox" type="f1a62948:ProjectNode" />
@@ -71,6 +81,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1Z7oz6coEfaxMqCgnUZOfBvM0QK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -84,13 +103,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sendbox/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_task1/sandbox/build.gradle" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/addressbook-web-tests/build.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15136719" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Gradle.PointTests">
+  <component name="RunManager" selected="Gradle.GroupCreationTests">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -98,47 +117,71 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.HomeTask1" />
-      <module name="java_task1.sandbox.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sendbox.MyFirstProgram" />
-      <module name="sandbox.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sendbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstProgram (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
-      <module name="sandbox.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="GroupCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.GroupCreationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GroupCreationsTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.GroupCreationsTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GroupCreationsTests.testGroupCreationsTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.GroupCreationsTests.testGroupCreationsTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="PointTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -207,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PointTests" />
+        <item itemvalue="Gradle.GroupCreationTests" />
+        <item itemvalue="Gradle.GroupCreationsTests" />
         <item itemvalue="Gradle.SquareTests" />
-        <item itemvalue="Application.MyFirstProgram (2)" />
-        <item itemvalue="Application.MyFirstProgram (1)" />
-        <item itemvalue="Application.HomeTask1 (1)" />
+        <item itemvalue="Gradle.PointTests" />
+        <item itemvalue="Gradle.GroupCreationsTests.testGroupCreationsTests" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +275,9 @@
       <workItem from="1584265438247" duration="8355000" />
       <workItem from="1584466548350" duration="3709000" />
       <workItem from="1584477706674" duration="710000" />
-      <workItem from="1584639267755" duration="1645000" />
+      <workItem from="1584639267755" duration="1674000" />
+      <workItem from="1584778610137" duration="573000" />
+      <workItem from="1584783590371" duration="13490000" />
     </task>
     <servers />
   </component>
@@ -252,30 +297,34 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="232" y="152" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1584200007420" />
+    <state x="94" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584799900517">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1584799900517" />
     <state x="390" y="360" width="499" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584263706604">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="390" y="360" width="499" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984@0.0.1280.984" timestamp="1584263706604" />
-    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1584268483452">
+    <state x="476" y="186" key="FileChooserDialogImpl" timestamp="1584799435964">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584268483452" />
-    <state width="1236" height="430" key="GridCell.Tab.0.bottom" timestamp="1584642422906">
+    <state x="476" y="186" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584799435964" />
+    <state width="1236" height="417" key="GridCell.Tab.0.bottom" timestamp="1584803915500">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584642422906" />
-    <state width="1236" height="430" key="GridCell.Tab.0.center" timestamp="1584642422905">
+    <state width="1236" height="417" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584803915500" />
+    <state width="1236" height="417" key="GridCell.Tab.0.center" timestamp="1584803915500">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584642422905" />
-    <state width="1236" height="430" key="GridCell.Tab.0.left" timestamp="1584642422905">
+    <state width="1236" height="417" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584803915500" />
+    <state width="1236" height="417" key="GridCell.Tab.0.left" timestamp="1584803915499">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584642422905" />
-    <state width="1236" height="430" key="GridCell.Tab.0.right" timestamp="1584642422906">
+    <state width="1236" height="417" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584803915499" />
+    <state width="1236" height="417" key="GridCell.Tab.0.right" timestamp="1584803915500">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="430" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584642422906" />
+    <state width="1236" height="417" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584803915500" />
     <state width="1200" height="185" key="GridCell.Tab.1.bottom" timestamp="1584273374250">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -292,18 +341,18 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1200" height="185" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1584273374250" />
-    <state x="160" y="81" key="SettingsEditor" timestamp="1584385738715">
+    <state x="160" y="103" width="1081" height="738" key="SettingsEditor" timestamp="1584799745985">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="160" y="81" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584385738715" />
+    <state x="160" y="103" width="1081" height="738" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584799745985" />
     <state x="455" y="275" key="chooseDestDirectoryDialog" timestamp="1584263705111">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="455" y="275" key="chooseDestDirectoryDialog/0.0.1280.984@0.0.1280.984" timestamp="1584263705111" />
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584640442680">
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584784044018">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584640442680" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584784044018" />
     <state x="45" y="130" key="new project wizard" timestamp="1584203384854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

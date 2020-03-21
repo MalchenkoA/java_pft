@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="addressbook-web-tests.selenium" target="11" />
       <module name="java_pft.sandbox.main" target="11" />
       <module name="java_pft.sandbox.test" target="11" />
       <module name="java_pft.sendbox.main" target="11" />
